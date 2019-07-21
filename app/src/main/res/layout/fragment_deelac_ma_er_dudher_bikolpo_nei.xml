@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/no_alternative_of_breastmilk"
+    tools:context=".DeelacMaErDudherBikolpoNei">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="390dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="মায়ের দুধের কোন বিকল্প নেই"
+            android:textStyle="bold"
+            android:textSize="35sp"
+            android:textColor="#585555"
+            android:fontFamily="monospace"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="There is no Alternative of Breastmilk"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#9BA1A3"
+            android:layout_marginTop="15dp"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
